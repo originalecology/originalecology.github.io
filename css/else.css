@@ -1,0 +1,5 @@
+@media (max-width:600px){.demo-1 .large-header{background-image:url("../images/android/AndroidMain.jpg");background-position:center bottom;}}@font-face{font-family:"webfont";font-display:swap;src:url("//at.alicdn.com/t/webfont_hvei87vsiyu.eot");src:url("//at.alicdn.com/t/webfont_hvei87vsiyu.eot?#iefix")
+  format("embedded-opentype"),url("//at.alicdn.com/t/webfont_hvei87vsiyu.woff2")
+  format("woff2"),url("//at.alicdn.com/t/webfont_hvei87vsiyu.woff") format("woff"),url("//at.alicdn.com/t/webfont_hvei87vsiyu.ttf")
+  format("truetype"),url("//at.alicdn.com/t/webfont_hvei87vsiyu.svg#杨任东竹石体-Bold")
+  format("svg");}.web-font{font-family:"webfont" !important;font-size:100%;-webkit-font-smoothing:antialiased;}@media (max-width:600px){.web-font{font-family:"webfont" !important;font-size:75%;-webkit-font-smoothing:antialiased;}}body{background-image:url("../images/PC/PcISwear.jpg");background-repeat:no-repeat;}@media (max-width:600px){body{background-image:url("../images/android/AndroidIswear.jpg");background-repeat:no-repeat;background-attachment:fixed;background-size:100%;}}
